@@ -212,7 +212,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-	"admin",
+    "admin",
     "inrealm",
     "ingroup",
     "inpm",
@@ -288,7 +288,7 @@ function create_config( )
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/Joker-Developer/Joker-Developer
+https://github.com/SEEDTEAM/TeleSeed
 
 Admins
 @iwals [Founder]
@@ -304,7 +304,8 @@ topkecleon
 Vamptacus
 
 Our channels
-@Help_telp 
+@teleseedch [English]
+@iranseed [persian]
 
 Our website 
 http://teleseed.seedteam.org/

@@ -213,31 +213,82 @@ function create_config( )
   config = {
     enabled_plugins = {
 	"admin",
-    "onservice",
     "inrealm",
     "ingroup",
     "inpm",
-    "banhammer",
+    "info",
     "stats",
-    "anti_spam",
     "owners",
-    "arabic_lock",
     "set",
     "get",
     "broadcast",
     "invite",
     "all",
     "leave_ban",
-	"supergroup",
-	"whitelist",
-	"msg_checks"
+    "supergroup",
+    "msg_checks",
+    "plugins",
+    "help2",
+    "help3",
+    "help4",
+    "help",
+    "addbot",
+    "robot",
+    "textphoto",
+    "taks",
+    "voice",
+    "welcome",
+    "onxerviec",
+    "me",
+    "map",
+    "map1",
+    "insta",
+    "Feedback",
+    "commands",
+    "addsudo",
+    "Version",
+    "arbic_lock",
+    "anti-spam",
+    "replay",
+    "banhammer",
+    "sticker",
+    "block",
+    "super-info",
+    "getlink",
+    "renk",
+    "id2",
+    "image",
+    "h1",
+    "h2",
+    "h3",
+    "ar-supergroup",
+    "ar-banhammer",
+    "azan",
+    "azan1",
+    "weather1",
+    "wether",
+    "dev",
+    "boomzain",
+    "boomzain2",
+    "short2",
+    "sof",
+    "sof2",
+    "zhrafa_arab",
+    "aljaesh",
+    "fwd_lock",
+    "rm",
+    "getfile",
+    "rplay_bot",
+    "newgroup",
+    "en-getfile",
+    "me1"
     },
     sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/Joker-Developer/Joker-Developer
 
 Admins
 @iwals [Founder]
@@ -253,8 +304,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@Help_telp 
 
 Our website 
 http://teleseed.seedteam.org/
